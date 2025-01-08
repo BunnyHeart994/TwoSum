@@ -1,3 +1,9 @@
+public class Main {
+    public static void main(String[] args) {
+
+    }
+}
+
 class Solution {
     public static int[] twoSum(int[] nums, int target) {
         int[] result = new int[2];
