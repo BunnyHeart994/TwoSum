@@ -7,7 +7,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Henrique's TwoSum v1.0\nWelcome. This program finds the index of 2 numbers " +
                 "in a sequence,\nthat if added up together, result in the target number.\nThe sequence " +
-                "and the target are user defined.\n");
+                "and the target are user defined.\nREMEMBER that the index start 0; so in the result, " +
+                "start counting at 0 (zero).\n");
         System.out.print("How many numbers do you want?\n--> ");
         short arrLength = scan.nextShort();
         int[] arr = new int[arrLength];
