@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TwoSum">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="TwoSum.jar">
+      <element id="module-output" name="TwoSum" />
+    </root>
+  </artifact>
+</component>
